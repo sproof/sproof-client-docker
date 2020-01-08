@@ -6,6 +6,8 @@ services:
     restart: always
     image: sproof/sproof-api-client:latest
     command: npm start
+    environment:
+      - TZ=Europe/Vienna
     volumes:
       - ./data:/usr/src/sproof-api-client/data
       - ./logs:/usr/src/sproof-api-client/logs
