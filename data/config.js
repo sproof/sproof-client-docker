@@ -16,7 +16,7 @@ let config = {
       sproofCode: 'YOUR SPROOF CODE'
     },
 
-    chainId: '1',
+    chainId: '3',
     chain: 'ethereum',
     version: '0.42',
   },
