@@ -3,7 +3,7 @@ let config = {
     port: 6001
   },
   commit: {
-    time: '18:00',
+    time: '17:00',
     //interval: 10
   },
 
