@@ -1,3 +1,4 @@
 logs/*
 data/events.json
 data/accessCode.json
+data/config.js
